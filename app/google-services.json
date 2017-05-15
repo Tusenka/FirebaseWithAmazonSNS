@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543349841761",
+    "firebase_url": "https://gcmasnssample.firebaseio.com",
+    "project_id": "gcmasnssample",
+    "storage_bucket": "gcmasnssample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543349841761:android:45ef98169968acdc",
+        "android_client_info": {
+          "package_name": "com.licon.gcmasnssample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543349841761-ocfv6235mhb9kgut4o5f7cmlmrfe4v8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBqd52cHw1SzcKqMuRJ6qeqggc-ldIMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
